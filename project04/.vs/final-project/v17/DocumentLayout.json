@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\files\\courses\\csharp3student.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\files\\courses\\csharp3student.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\addstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\addstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\showstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\showstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\showstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\showstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\survey.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\survey.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\showquestions.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\showquestions.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\addstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\addstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\survey.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\survey.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\showtechnologies.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{905EC3D0-83DD-49A7-AE71-031C46AB6AE7}|final-project\\final-project.csproj|solutionrelative:final-project\\showtechnologies.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\files\\Feedback\\noor_html.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:final-project\\files\\Feedback\\noor_html.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "final-project\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\Login.aspx.cs",
+              "RelativeToolTip": "final-project\\Login.aspx.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwIUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:56:34.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "csharp3Student.txt",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\files\\Courses\\csharp3Student.txt",
+              "RelativeDocumentMoniker": "final-project\\files\\Courses\\csharp3Student.txt",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\files\\Courses\\csharp3Student.txt",
+              "RelativeToolTip": "final-project\\files\\Courses\\csharp3Student.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-09T20:52:44.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "final-project\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\WebForm1.aspx",
+              "RelativeToolTip": "final-project\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T20:50:17.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\Home.aspx",
+              "RelativeDocumentMoniker": "final-project\\Home.aspx",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\Home.aspx",
+              "RelativeToolTip": "final-project\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T15:07:43.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddStudent.aspx",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\AddStudent.aspx",
+              "RelativeDocumentMoniker": "final-project\\AddStudent.aspx",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\AddStudent.aspx",
+              "RelativeToolTip": "final-project\\AddStudent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T15:18:11.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\Login.aspx",
+              "RelativeDocumentMoniker": "final-project\\Login.aspx",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\Login.aspx",
+              "RelativeToolTip": "final-project\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T15:09:40.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowStudent.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\ShowStudent.aspx.cs",
+              "RelativeDocumentMoniker": "final-project\\ShowStudent.aspx.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\ShowStudent.aspx.cs",
+              "RelativeToolTip": "final-project\\ShowStudent.aspx.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAIwKgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:29:05.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShowStudent.aspx",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\ShowStudent.aspx",
+              "RelativeDocumentMoniker": "final-project\\ShowStudent.aspx",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\ShowStudent.aspx",
+              "RelativeToolTip": "final-project\\ShowStudent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T19:26:10.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\Contact.aspx",
+              "RelativeDocumentMoniker": "final-project\\Contact.aspx",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\Contact.aspx",
+              "RelativeToolTip": "final-project\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T19:16:29.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\About.aspx",
+              "RelativeDocumentMoniker": "final-project\\About.aspx",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\About.aspx",
+              "RelativeToolTip": "final-project\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T19:00:30.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "final-project\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\Home.aspx.cs",
+              "RelativeToolTip": "final-project\\Home.aspx.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwHMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:54:53.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "survey.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\survey.aspx.cs",
+              "RelativeDocumentMoniker": "final-project\\survey.aspx.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\survey.aspx.cs",
+              "RelativeToolTip": "final-project\\survey.aspx.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwGcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:11:12.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShowQuestions.aspx",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\ShowQuestions.aspx",
+              "RelativeDocumentMoniker": "final-project\\ShowQuestions.aspx",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\ShowQuestions.aspx",
+              "RelativeToolTip": "final-project\\ShowQuestions.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T18:37:24.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "noor_html.txt",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\files\\Feedback\\noor_html.txt",
+              "RelativeDocumentMoniker": "final-project\\files\\Feedback\\noor_html.txt",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\files\\Feedback\\noor_html.txt",
+              "RelativeToolTip": "final-project\\files\\Feedback\\noor_html.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-09T15:12:05.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "survey.aspx",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\survey.aspx",
+              "RelativeDocumentMoniker": "final-project\\survey.aspx",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\survey.aspx",
+              "RelativeToolTip": "final-project\\survey.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T15:09:15.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddStudent.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\AddStudent.aspx.cs",
+              "RelativeDocumentMoniker": "final-project\\AddStudent.aspx.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\AddStudent.aspx.cs",
+              "RelativeToolTip": "final-project\\AddStudent.aspx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowEsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:18:15.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShowTechnologies.aspx",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\ShowTechnologies.aspx",
+              "RelativeDocumentMoniker": "final-project\\ShowTechnologies.aspx",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\mustafa1\\final-project\\ShowTechnologies.aspx",
+              "RelativeToolTip": "final-project\\ShowTechnologies.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T15:09:13.187Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
